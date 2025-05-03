@@ -1,0 +1,5 @@
+export {default as Logo} from './react.svg'
+export {default as Me1} from './MyImage.png'
+export {default as Me2} from './Me2.png'
+export {default as BgOne} from './BgOne.png'
+export {default as BgTwo} from './BgTwo.png'
